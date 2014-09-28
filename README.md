@@ -25,6 +25,6 @@ Website map for an unregistered user:
 
 ![alt-link](https://raw.githubusercontent.com/jelenans/Blogger/master/New%20Picture%20(1).bmp)
 
-Website ma for a registered user:
+Website map for a registered user:
 
 ![alt-link](https://raw.githubusercontent.com/jelenans/Blogger/master/New%20Picture%20(2).bmp)
